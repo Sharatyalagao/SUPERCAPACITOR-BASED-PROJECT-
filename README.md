@@ -70,3 +70,5 @@ Platform: Tinkercad
 ## 📄 License  
 
 Educational use only
+Tinkercad model link-
+https://www.tinkercad.com/things/4fpEZuJQHPc-supercap-based-ups-design-?sharecode=KAEMkxY5lly3eoWG9L6bIm34Jspflw9zbu2iAc8pBQg
